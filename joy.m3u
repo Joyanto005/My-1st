@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=”https://edge01.iptv.digijadoo.net/static/btv_world.png” group-title=”Bangla”, BTV
+#EXTINF:-1 tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJvZQfGqGMrFJ8F6uKUCECBrJX02XtEiHLKpMsh6iICQ&s” group-title=”Bangla”, BTV
 https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=8xX4cZzhJBxtSBUSoVM9Ng&expires=1714538455&user=ff39d05fef0749028389f28943b73363
 #EXTINF:-2 tvg-logo=”https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png” group-title=”Bangla”, BOISHAKHI 
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=nMyTpM-xsSSv408dBBMFYA&expires=1714538676&user=ff39d05fef0749028389f28943b73363
