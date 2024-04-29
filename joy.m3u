@@ -2,11 +2,13 @@
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Bangla", BTV HD
 http://cdn01.palki.tv/live/BTV-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTMeVVsiE2u5vxZf4t3BlLNr3IHgr6zksrFL_mmlK_g&s" group-title="Bangla", BTV WORLD
-http://sansat.net:88/02029761595924/9d089925dc60a821/100658
+http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSifCNNxM9YxeraG3S0eNpIYPaB6p4xoOMfqiXC61eEQ&s" group-title="Bangla", BTV Chattogram
+http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangla", ATN News
-https://himel-op.top/api/ytop.m3u8?id=c67_sK-EU1g
+http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangla", ATN Bangla
-http://sansat.net:88/02029761595924/9d089925dc60a821/100648
+http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangla", Asian TV
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangla", RTV HD
@@ -18,31 +20,31 @@ https://himel-op.top/portal/hexa.m3u8?id=256
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Bangla", Bijoy TV
 https://himel-op.top/portal/hexa.m3u8?id=2368
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangla", Bangla TV
-https://himel-op.top/portal/hexa.m3u8?id=2725
+http://cdn01.palki.tv/live/BanglaTV-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/640px-Banglavision.svg.png" group-title="Bangla", Banglavision HD
-https://himel-op.top/api/ytop.m3u8?id=swRhx6JcZ88
+http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Bangla", Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" group-title="Bangla", Mohona TV HD
-http://sansat.net:88/02029761595924/9d089925dc60a821/100681
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://iv.melmac.space/ggpht/ytc/AIdro_kJxgorai5DB8f6Io1q4YqmJwjSlaehZaCKvzrk9-_sV1c=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla", CHANNEL 9
-http://sansat.net:88/02029761595924/9d089925dc60a821/100661
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://iv.melmac.space/ggpht/ytc/AIdro_nK6E0O1iBf74Zu4pTRFxqaAeBsPYcyDMskf2C9R3AXOwg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Bangla", CHANNEL S
-http://208.86.19.13:81/519.stream/index.m3u8
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangla", News 24 HD
-https://himel-op.top/api/ytop.m3u8?id=lBiOFpZG9tk
+http://cdn01.palki.tv/live/News24-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://iv.melmac.space/ggpht/XAXrE3YwNHxebtX1eUj1NDUTRoZRI-Na-DC4JmnYnpre79JtSURdL_SX9nrgqXjQUzkqZQ-Jpw=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla", DESH TV
 http://sansat.net:88/02029761595924/9d089925dc60a821/100668
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangla", Ekhon TV
-https://himel-op.top/api/ytop.m3u8?id=KRg6skX01so
+http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangla", Somoy TV
 https://himel-op.top/api/ytop.m3u8?id=e_BQWtx15qI
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Bangla", Channel 24
-https://himel-op.top/api/ytop.m3u8?id=SOUt2eeU4ig
+http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangla", Independent TV
-https://himel-op.top/api/ytop.m3u8?id=suSPQSFq8S4
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks&s=10" group-title="Bangla", Jamuna TV
-https://himel-op.top/api/ytop.m3u8?id=EYd-9qjsI_k
+http://cdn01.palki.tv/live/JamunaTV-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangla", DBC News
 https://himel-op.top/api/ytop.m3u8?id=Sh66Zurop2U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangla", Ekattor TV HD
