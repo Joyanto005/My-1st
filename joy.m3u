@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Bangla", BTV HD
 http://sansat.net:88/02029761595924/9d089925dc60a821/100659
-#EXTINF: -1 group-title="Bangla", BTV WORLD
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTMeVVsiE2u5vxZf4t3BlLNr3IHgr6zksrFL_mmlK_g&s" group-title="Bangla", BTV WORLD
 http://sansat.net:88/02029761595924/9d089925dc60a821/100658
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangla", ATN News
 https://himel-op.top/api/ytop.m3u8?id=c67_sK-EU1g
