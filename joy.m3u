@@ -76,21 +76,21 @@ http://stream.iqflix.net:27872/play/a01f/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", ZEE BANGLA HD
 https://himel-op.top/portal/cooltvopp.m3u8?id=24601
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla", Sony Aath
-https://himel-op.top/portal/airtelop.m3u8?tv=4101
+http://stream.iqflix.net:27872/play/a0l4/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla HD
-https://himel-op.top/portal/airtelop.m3u8?tv=4682
+https://himel-op.top/portal/puk.m3u8?id=11946
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD
-https://himel-op.top/portal/airtelop.m3u8?tv=3918
+http://stream.iqflix.net:27872/play/a07e/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYKb0fQnpfjV1TZcIpaukjFwJucd5glktJw&usqp=CAU" group-title="Indian Bangla", Zee Bangla Cinema
-https://himel-op.top/portal/zontv.m3u8?id=5005
+http://stream.iqflix.net:27872/play/a00y/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zXzR31zm/Sun-Bangla.png" group-title="Indian Bangla", SUN BANGLA
-http://sansat.net:88/02029761595924/9d089925dc60a821/100754
+http://stream.iqflix.net:27872/play/a0l5/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/qMPg9hfn/Untitled_design(2).png" group-title="Indian Bangla", Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Entertainment", Sony Max HD
-http://sansat.net:88/02029761595924/9d089925dc60a821/96180
+http://stream.iqflix.net:27872/play/a073/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Entertainment", Zee Cinema HD
 http://sansat.net:88/02029761595924/9d089925dc60a821/96171
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Entertainment", Star Gold HD
