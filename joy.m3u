@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="Sports", Star Sports Select 2 HD
+https://himel-op.top/portal/cdnop.ts?channelId=300#EXTM3U 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Bangla", BTV HD
 http://cdn01.palki.tv/live/BTV-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTMeVVsiE2u5vxZf4t3BlLNr3IHgr6zksrFL_mmlK_g&s" group-title="Bangla", BTV WORLD
@@ -248,4 +249,4 @@ https://himel-op.top/portal/cdnop.ts?channelId=49568
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="Sports", Star Sports Select 1 HD
 https://himel-op.top/portal/cdnop.ts?channelId=299
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="Sports", Star Sports Select 2 HD
-https://himel-op.top/portal/cdnop.ts?channelId=300
+http://starshare.live:8080/live/Nicholas/Nicholas/304286.ts
