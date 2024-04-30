@@ -98,17 +98,17 @@ http://stream.iqflix.net:27872/play/a075/index.m3u8
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Hindi Entertainment", Sony MAX 2
 http://sansat.net:88/02029761595924/9d089925dc60a821/96181
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Hindi Entertainment", Sony TV HD
-https://himel-op.top/portal/cooltvopp.m3u8?id=24574
+http://stream.iqflix.net:27872/play/a00o/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="Hindi Entertainment", Colors HD
 https://himel-op.top/portal/hexa.m3u8?id=974
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Hindi Entertainment", Sony SAB HD
-https://himel-op.top/portal/cooltvopp.m3u8?id=24577
+http://stream.iqflix.net:27872/play/a00p/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Entertainment", Star Plus HD
-https://himel-op.top/portal/airtelop.m3u8?tv=4886
+http://stream.iqflix.net:27872/play/a0gi/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310" group-title="Hindi Entertainment", Star Bharat
-https://himel-op.top/portal/airtelop.m3u8?tv=4900
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Star_utsav.png/revision/latest/scale-to-width-down/250?cb=20210520175932" group-title="Hindi Entertainment", Star Utsav Tata
-https://himel-op.top/portal/airtelop.m3u8?tv=5366
+http://103.120.172.74:5200
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Star_utsav.png/revision/latest/scale-to-width-down/250?cb=20210520175932" group-title="Hindi Entertainment", Star Utsav
+https://himel-op.top/portal/hexa.m3u8?id=2800
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment", Zee TV HD
 https://himel-op.top/portal/cooltvopp.m3u8?id=10578
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Hindi Entertainment", Colors Cineplex
@@ -136,7 +136,7 @@ http://sansat.net:88/02029761595924/9d089925dc60a821/96182
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnrs0zUFRg63I2GbFGIhGEotwK6joWb56Q-opX1ktiw&s" group-title="English Moive", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Moive", Star Movies
-https://himel-op.top/portal/cdnop.ts?channelId=198
+http://stream.iqflix.net:27872/play/a0az/index.m3u8
 #EXTINF: -1 tvg-logo="/data/user/0/com.instantbits.cast.webvideo/cache/imageCastCache/Sg4KI.png" group-title="English Moive", COLORS INFINITY
 http://sansat.net:88/02029761595924/9d089925dc60a821/93649
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documents", Animal Planet HD
@@ -147,7 +147,7 @@ https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 http://10.200.200.2:8088/1901/video.m3u8?token=nzcJ2SujnthTQ1
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png" tvg-logo-small="https://i.postimg.cc/g28Z2QmT/download-8.png" group-title="Documents", National Geographic INDIA
 https://corsproxy.io/?https://plx.iptv18.tech/push.php?id=340&amp;e=.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="Documents", Sony BBC Earth Hindi(c)
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="Documents", Sony BBC Earth
 https://himel-op.top/portal/cooltvopp.m3u8?id=10601
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9bkaVa0yAWUhbNf9Y5VfTCMrcxTwaGBwNUxeO-xBxrw&s" group-title="Documents", BBC EARTH
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
