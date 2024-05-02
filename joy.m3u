@@ -79,17 +79,13 @@ https://himel-op.top/portal/puk.m3u8?id=11952
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", Zee Bangla HD
 http://stream.iqflix.net:27872/play/a01f/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", ZEE BANGLA HD
-https://himel-op.top/portal/cooltvopp.m3u8?id=24601
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/49963.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla", Sony Aath
 http://stream.iqflix.net:27872/play/a0l4/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla HD
 https://himel-op.top/portal/puk.m3u8?id=11946
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD
 http://stream.iqflix.net:27872/play/a07e/index.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", TOFFEE Sports VIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.193 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1714716102:KeyName=prod_linear:Signature=KDPgfQEt5HqYcMslWLv8ZcwEDx9CGXxejCGj-hwAMqJ3-l27HT6l3-UpTf2q6qSeqFOLfzecQJ8Hpz-Jlpf1Dg"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYKb0fQnpfjV1TZcIpaukjFwJucd5glktJw&usqp=CAU" group-title="Indian Bangla", Zee Bangla Cinema
 http://stream.iqflix.net:27872/play/a00y/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zXzR31zm/Sun-Bangla.png" group-title="Indian Bangla", SUN BANGLA
