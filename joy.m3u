@@ -1,6 +1,4 @@
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Bangla", BTV HD
-https://tataplay.dinesh29.com.np/live/tataplay/zee-bangla-hd/manifest.m3u
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Bangla", BTV HD
 http://cdn01.palki.tv/live/BTV-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTMeVVsiE2u5vxZf4t3BlLNr3IHgr6zksrFL_mmlK_g&s" group-title="Bangla", BTV WORLD
 https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=btv_world
