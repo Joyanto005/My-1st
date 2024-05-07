@@ -55,25 +55,25 @@ http://stream.iqflix.net:27872/play/a0n2/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB_eHy7TI4EHWe_DqmJhsmELKe9FsUP69qGlrZrv0SF3AT1z155zQvLU&s=10" group-title="Bangla", Channel I HD
 http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239034
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV
-http://cdn01.palki.tv/live/NTV-M/index.m3u8
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239037
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla", T Sports
 https://live-cdn.tsports.com/live-02/master_1920.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", Gazi TV HD
-http://stream.iqflix.net:27872/play/a0kh/index.m3u8
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239081
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Bangla", Gaan Bangla
-https://himel-op.top/portal/puk.m3u8?id=11895
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239096
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla", Nexus TV
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI_S9ZTlnUSML05q87vspeGMylqgiusp8_t9tj8__sTw&s" group-title="Bangla", Maasranga
-http://stream.iqflix.net:27872/play/a0kf/index.m3u8
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239087
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangla", Duronto
-https://nayeemparvez.my.id/aptv/stream.m3u8?id=36&e=.m3u8
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239079
 #EXTINF: -1 tvg-logo="https://iv.melmac.space/ggpht/rxI0cgB2pPechsWHut5hCwn1alsNhcPDBUCUaH3OKlbyYR_YzJ1vdrZX0LntF45dSOXi_YVj=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Bangla", DD BANGLA
 http://sansat.net:88/02029761595924/9d089925dc60a821/100667
 #EXTINF: -1 tvg-logo="https://iv.melmac.space/ggpht/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Bangla", BBC NEWS
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla", STAR JALSHA
-http://stream.iqflix.net:27872/play/a032/index.m3u8
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239046
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsha HD
 https://himel-op.top/portal/puk.m3u8?id=11952
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", Zee Bangla HD
