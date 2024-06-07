@@ -157,11 +157,11 @@ https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYDXt66tr8X1mdvW071CXveOsoOfrqi9qqg&usqp=CAU" group-title="Documents", Discovery HD
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png" tvg-logo-small="https://i.postimg.cc/g28Z2QmT/download-8.png" group-title="Documents", National Geographic
-http://10.200.200.2:8088/1901/video.m3u8?token=nzcJ2SujnthTQ1
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/303446
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png" tvg-logo-small="https://i.postimg.cc/g28Z2QmT/download-8.png" group-title="Documents", National Geographic INDIA
 https://corsproxy.io/?https://plx.iptv18.tech/push.php?id=340&amp;e=.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="Documents", Sony BBC Earth
-https://himel-op.top/portal/cooltvopp.m3u8?id=10601
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/303438
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9bkaVa0yAWUhbNf9Y5VfTCMrcxTwaGBwNUxeO-xBxrw&s" group-title="Documents", BBC EARTH
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" tvg-logo-small="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documents", Discovery Bengali
@@ -180,9 +180,7 @@ http://sansat.net:88/02029761595924/9d089925dc60a821/96237
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9X Jhakkas
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrK-BF8lwhZtf8r0ExTlV5ZqywYWyDgSVN7rmjtxFHCQ&s" group-title="Music", YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0af67dad-7789-40f0-a1fe-4aad49acabe2/0.m3u8
-#EXTINF: -1 group-title="Music", ZOO MUSIC
+#EXTINF: -1 group-title="Music", ZOOM MUSIC
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 #EXTINF: -1 group-title="Kids", NICK HD PLUS [BD]
 http://sansat.net:88/02029761595924/9d089925dc60a821/96248
