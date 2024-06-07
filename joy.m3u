@@ -182,66 +182,36 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 #EXTINF: -1 group-title="Music", ZOOM MUSIC
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
-#EXTINF: -1 group-title="Kids", NICK HD PLUS [BD]
+#EXTINF: -1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy8hffBkobYbwE5S2vpn-s6VNDpyIHw5mpoQ&usqp=CAU"
+ group-title="Kids", NICK HD PLUS [BD]
 http://sansat.net:88/02029761595924/9d089925dc60a821/96248
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOmu1zJeWY4LSS5tmFhB3G-Btc68IvxYnGQ&usqp=CAU" group-title="Kids", Nick jr
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/302644
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nick_Logo_2017.svg/2560px-Nick_Logo_2017.svg.png" group-title="Kids", Nick
 https://himel-op.top/portal/fuukop.ts?id=161896
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_OoMGcAbEnLiH_eV-UBYVF7EOL5uHcfQmQ&usqp=CAU" group-title="Kids", Cartoon Network Hindi
-https://api.himel-op.top/mix.m3u8?id=238973
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_OoMGcAbEnLiH_eV-UBYVF7EOL5uHcfQmQ&usqp=CAU" group-title="Kids", Cartoon Network
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/302640
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids", Sonic Hindi
-https://api.himel-op.top/mix.m3u8?id=238974
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/302639
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Kids", Hungama TV(2)
-https://himel-op.top/portal/fuukop.ts?id=161878
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/302646
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Sony YAY HD
 http://sansat.net:88/02029761595924/9d089925dc60a821/96187
 #EXTINF: -1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Astro Cricket
-https://himel-op.top/portal/cooltvopp.m3u8?id=24544
-#EXTINF: -1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Sky Cricket
-https://himel-op.top/api/sportsop.m3u8?channel=mrgamingcric
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/236852
 #EXTINF: -1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Super Cricket
-https://himel-op.top/api/sportsop.m3u8?channel=mrgamingsscric
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/236854
 #EXTINF: -1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Fox 501 HD
-https://himel-op.top/portal/cooltvopp.m3u8?id=24545
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/236869
 #EXTINF: -1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Willow HD
-https://himel-op.top/portal/cooltvopp.m3u8?id=24438
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/237503
 #EXTINF: -1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", PTV Sports HD
-https://himel-op.top/portal/cooltvopp.m3u8?id=11216
-#EXTINF: -1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", TNT Sports 1
-https://himel-op.top/api/sportsop.m3u8?channel=mrgamingbtsport1
-#EXTINF: -1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", TNT Sports 2
-https://himel-op.top/api/sportsop.m3u8?channel=mrgamingbtsport2
-#EXTINF: -1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", TNT Sports 3
-https://himel-op.top/api/sportsop.m3u8?channel=mrgamingbtsport3
-#EXTINF: -1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", TNT Sports 4
-https://himel-op.top/api/sportsop.m3u8?channel=mrgamingbtsport4
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutKB6lynmi7Gz5dao1FKSTTEyPz0IwvkeFnc-BF0&s" group-title="Sports", Sony Sports 5 HD Bdix
-https://himel-op.top/api/bioop.m3u8?id=sony-ten-5
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutKB6lynmi7Gz5dao1FKSTTEyPz0IwvkeFnc-BF0&s" group-title="Sports", Sony Sports 5 HD(c)
-https://himel-op.top/portal/cooltvopp.m3u8?id=113
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutKB6lynmi7Gz5dao1FKSTTEyPz0IwvkeFnc-BF0&s" group-title="Sports", Sony Sports 5 HD(h)
-https://himel-op.top/portal/cdnop.ts?channelId=105350
-#EXTINF: -1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports", Sony Sports 1 HD Bdix
-https://himel-op.top/api/bioop.m3u8?id=sony-ten-1-live
-#EXTINF: -1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports", Sony Sports 1 HD(c)
-https://himel-op.top/portal/cooltvopp.m3u8?id=6474
-#EXTINF: -1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports", Sony Sports 1 HD(h)
-https://himel-op.top/portal/cdnop.ts?channelId=289
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="Sports", Sony Sports 2 HD Bdix
-https://himel-op.top/api/bioop.m3u8?id=sony-ten-2-live
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="Sports", Sony Sports 2 HD(c)
-https://himel-op.top/portal/cooltvopp.m3u8?id=6058
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="Sports", Sony Sports 2 HD(h)
-https://himel-op.top/portal/cdnop.ts?channelId=290
-#EXTINF: -1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports", Sony Sports 3 HD Bdix
-https://himel-op.top/api/bioop.m3u8?id=sony-ten-3-live
-#EXTINF: -1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports", Sony Sports 3 HD(c)
-https://himel-op.top/portal/cooltvopp.m3u8?id=6906
-#EXTINF: -1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports", Sony Sports 3 HD(h)
-https://himel-op.top/portal/cdnop.ts?channelId=291
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Sports", Star Sports 1 HD(c)
-https://himel-op.top/portal/cooltvopp.m3u8?id=24362
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Sports", Star Sports 1 HD(h)
-https://himel-op.top/portal/cdnop.ts?channelId=293
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/236838
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Sports", Star Sports 1
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/237046
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Sports", Star Sports 2
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/237044
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Sports", Star Sports 1 Hindi(c)
 https://himel-op.top/portal/cooltvopp.m3u8?id=7608
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Sports", Star Sports 1 Hindi(h)
