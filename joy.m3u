@@ -259,3 +259,5 @@ http://stream.iqflix.net:27872/play/a0ms/index.m3u8
 http://stream.iqflix.net:27872/play/a0mu/index.m3u8
 #EXTINF:-1 tvg-logo="http://stream.iqflix.net:27872/iqflix/tvg-logo/a0mv.png" group-title="11- Others",Dubai International
 http://stream.iqflix.net:27872/play/a0mv/index.m3u8
+#EXTINF:-1 tvg-logo="http://stream.iqflix.net:27872/iqflix/tvg-logo/a0mv.png" group-title="11- Others",Sony liv
+https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=st=1720980012~exp=1720980312~acl=*~id=3c8873bb-a44a-4c19-a298-f593a4f50352~hmac=b62f22946d8e37638cfd0a103622dab96f57dedf707799932241a14676a0c7e1&originpath=/linear/hls/pb/event/oZNVxALASVyYS4HMtTpRCw/stream/52d79e10-a74d-4e1e-9baf-cc375eb4160e:TPE/master.m3u8
