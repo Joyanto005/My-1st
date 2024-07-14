@@ -261,3 +261,13 @@ http://stream.iqflix.net:27872/play/a0mu/index.m3u8
 http://stream.iqflix.net:27872/play/a0mv/index.m3u8
 #EXTINF:-1 tvg-logo="http://stream.iqflix.net:27872/iqflix/tvg-logo/a0mv.png" group-title="11- Others",Sony liv
 https://sonyliv.himel-op.top/Join-Telegram-@HimelOP_Official/uefa-euro-2.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPjjDGKA1tlQIjbvGL_hi_m4mEr2O0krQh3IubM6w0tg&s" group-title="Hindi Entertainment", The Moive Club
+https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTWAcBYvKYabG2veI_KILErR9ZFggqPvNm6CC0CqofQ&s" group-title="Hindi Entertainment", Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIaoJazHmcOd0yeKcBFqEqMGVgPRozqQpocWtAtdjn5g&s" group-title="Hindi Entertainment", Classic Bollywood HD
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+#EXTINF: -1 tvg-logo="https://iv.melmac.space/ggpht/Q7t0TJDeW6luDxLxPxAuykULsksMBc9I4TSWuYmqyaNgif8uw_XZm_9MfvbYC5t1D1LN8fm6WKc=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Hindi Entertainment", BOLLYWOOD HUNGAMA
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/c4d9a1fa-c692-41c3-a5e4-ab69ac3b7445/1.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwzwzLd7AsUVI_Tl_GoLJ5Qi5Dh3CCu73D7RMswwr1g&s" group-title="Hindi Entertainment", Zee Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
