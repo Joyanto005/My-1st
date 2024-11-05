@@ -33,41 +33,38 @@ https://bajimath.com/sa/bdcast/hls/index.m3u8?id=c7608fa9
 https://bajimath.com/hp/master.m3u8?id=Independent tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks&s=10" group-title="Bangla", Jamuna TV
 https://bajimath.com/hp/master.m3u8?id=Jamuna
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangla", DBC News
-https://bajimath.com/hp/master.m3u8?id=DBCNews
+https://cdn2.ihub.live/DBCNews/index.m3u8?token=f2724b15b47497b0c661711d2d0994ef8923fb05-450f445997b73b17c17a043019e518ef-1730800580-1730789780
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangla", Ekattor TV HD
 http://xtv.ooo:8080/88654455/97543255/245915
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAI6G512VuoCSo7kyrHIJxnb8QvoNo7_PzMPLgvSCr9Q&s" group-title="Bangla", Nagorik Tv
-http://stream.iqflix.net:27872/play/a0n2/index.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB_eHy7TI4EHWe_DqmJhsmELKe9FsUP69qGlrZrv0SF3AT1z155zQvLU&s=10" group-title="Bangla", Channel I HD
-http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/303627
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=IPeiZhZNqQB_B-1JbKOQSA&expires=1731007195&user=8333f5cef8e441a0abd75ae8344d39d7
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV
-http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/303646
+https://cdn2.ihub.live/NTV/index.m3u8?token=4d023e19ad331faded5369e476e80cbf06dd6fdc-7270bc26aa451939550046018d790d6e-1730802051-1730791251
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla", T Sports
-http://113.212.111.246:8080/hls/col12.m3u8
+https://bajimath.com/hp/master.m3u8?id=Tsports
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla", T Sports
+https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", Gazi TV HD
-http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239081
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Bangla", Gaan Bangla
-http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/303636
+https://cdn2.ihub.live:443/GTV/tracks-v1a1/mono.m3u8?token=cf0b927659a27bd438e0c4a634ceb61a37ed990c-ffd3072efb3776cb599c86d1e6eb99b0-1730802208-1730791408
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla", Nexus TV
-http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/303659
+https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=WdrfjsvgULaOlf4DKgrP5A&expires=1731007873&user=8333f5cef8e441a0abd75ae8344d39d7
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI_S9ZTlnUSML05q87vspeGMylqgiusp8_t9tj8__sTw&s" group-title="Bangla", Maasranga
-http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/303640
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangla", Duronto
 http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239079
-#EXTINF: -1 tvg-logo="https://iv.melmac.space/ggpht/rxI0cgB2pPechsWHut5hCwn1alsNhcPDBUCUaH3OKlbyYR_YzJ1vdrZX0LntF45dSOXi_YVj=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Bangla", DD BANGLA
-http://sansat.net:88/02029761595924/9d089925dc60a821/100667
-#EXTINF: -1 tvg-logo="https://iv.melmac.space/ggpht/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Bangla", BBC NEWS
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla", STAR JALSHA
-http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/303653
+http://103.205.133.71/StarJalshaFHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsha HD
-http://stream.iqflix.net:27872/play/a032/index.m3u8
+https://cdn2.ihub.live/StarJalsha/index.m3u8?token=e1f2eb6e8507854d5b3af7aa1da96c93f0467733-0f45a187ce2450894e797e19e6ae5817-1730802846-1730792046
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", Zee Bangla HD
-http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/303106
+http://103.205.133.71/ZeeBangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", ZEE BANGLA HD
-http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/303617
+http://bdix.livecast.rf.gd/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla", Sony Aath
-http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239109
+https://newhub247.store/themes/master.m3u8?id=1000009255
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla HD
 http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/303630
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD
