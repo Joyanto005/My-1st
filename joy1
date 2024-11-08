@@ -62,9 +62,9 @@ https://cdn2.ihub.live/StarJalsha/index.m3u8?token=e1f2eb6e8507854d5b3af7aa1da96
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", Zee Bangla HD
 http://103.205.133.71/ZeeBangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", ZEE BANGLA HD
-http://bdix.livecast.rf.gd/ZeeBangla/tracks-v1a1/mono.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla", Sony Aath
-https://newhub247.store/themes/master.m3u8?id=1000009255
+https://newhub247.store/themes/chunklist.m3u8?load=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f26b315c93319e1b5570a6eaf72be322b964bb553d8ac22d9b6e6ca6c483ef02ebc319c407d8ac3fbfc1f5215873e0c56c3e6bdcfc4caca43c5cafa0b0f1c5b6c1cfcf29f7853e83de165c707e6e243c190dd19fa18b4dbe8b01cc928a8b9d5f9d64e4ae143bf24b961b92ef95fbe1fd12f5737499772296384b72b69d4abfe48ca2de7bf5aea676c22c87dae32cd626a23d7109c6ccbcbeaedbc7e4ee05bbb9f528c56624842318e75554c58bfa482f9109a4a64dcd57f44cb560180ae034b03ced84cca846c4ee8f2ae9be71362c914cdedc6c4d38e4da13146224a0eabb7c554da7cd81d824e6fc6fdb47da8acbd2cd1cd350cd0e1fc3bb950cb26219abe585d87595aaca28f93ea601d52e3c3a84eff076f6a26eac0eee8e233f777c743b4888fcd1740543e1b78df76167ced09777219ed9fb9c6dd9be60af30d83e69b3ccb22b65289cc6272e60e6a524704631fe3&token=
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla HD
 http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/303630
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD
