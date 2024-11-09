@@ -87,11 +87,7 @@ http://10.200.200.2:8088/101/tracks-v1a1/mono.m3u8
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Entertainment", Sony Max HD
 https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
-#EXTINF: -1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Entertainment", Sony Max HD
-https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
-
-#EXTINF: -
-Sony Max BACKUP 
+#EXTINF: -1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Entertainment", Sony Max HD 
 https://newhub247.store/themes/chunklist.m3u8?load=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f2683942cea32b1177400e133846382baacdd53f5b1883eb8e13c359cc3d5915df942948002a2b0c57fa59f2a8916484d56403afbdc469a51ed39659e4b76ee1d99c20800342112ba747ff475e193c30ea1a3ee6a6881edc04ef96274756a199ee64dad999062fcd219ba9a52cf927fc91e06fe0b279ce2c137822a473e9a36332a18eac889822bab02f6d42788acc4903e22f53b43321646954600da7d24da2ff31008c49c5095dddbd5a0feba4d4a1a0e839a8ae7bb6310901b0809c6900fde141ce8e909bf5a18501d2fe491fad7b3dcdeecd10cd92c031b73a533a3da851d524b20c596de66f924316c7160223ab5d888b19ba8975df927ea9c2dc6f1d487d1bd5affab9bb1e01718db051039c7aa73be273a4c57b9afe05ee3b6310c6fbd6140f638afd36a9f719fcdf4bb3b8d36ae71fc0c32ab94eb993906d747838dfaed0661dfad210ab5e8dba1ead3e30ba303e8c5c4bf218cc9837047ba12521d72b9&token=
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Entertainment", Zee Cinema HD
