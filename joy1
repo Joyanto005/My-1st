@@ -79,7 +79,7 @@ http://10.200.200.2:8088/303/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYKb0fQnpfjV1TZcIpaukjFwJucd5glktJw&usqp=CAU" group-title="Indian Bangla", Zee Bangla Cinema
 http://10.200.200.2:8088/101/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zXzR31zm/Sun-Bangla.png" group-title="Indian Bangla", SUN BANGLA
-https://sunnxt.malayalamtvhd.workers.dev/livestream7/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+https://colorsscreen.com/live.php?id=1669&extension=.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/qMPg9hfn/Untitled_design(2).png" group-title="Indian Bangla", Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla", Enter 10 Bangla
