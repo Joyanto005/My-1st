@@ -91,7 +91,7 @@ https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
 http://10.200.200.2:8088/404/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Entertainment", Zee Cinema HD
-http://10.200.200.2:8088/406/index.m3u8
+http://10.200.200.2:8088/406/index.m3u8?token=2938c151182baa7a077a0de0c193bf462ff587ae-8e49d24df6e0e0ded9ce6369bb7956cb-1731142155-1731138555
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Entertainment", Zee Cinema HD
 https://mhdmaxtv.me/nowmelive/stream.php?load=cbb0227144b31df844d4e448658d2fd2b2d00a3ffcb0b1b57ef4eed7ebd7749af96f8eae12a05a212eac1a9e431d81ab464355157abf4097205e2c7e0eb7328992daac6f2fc486c1c51c39af6e1f46319ece497f657d538e0f88b3bca71c503ebd763be471f19c71fd058bb950b928a7bf046f77fa84c171fa81082518fbad8d9b43e9cfcafd7cfd5f751d87fc597c51cf9e09731d0b96ed4149888d438f7ecfec4a9167e990c60237306a0f52cb35c47a7c85b451edc610b2e9ae66932442c0&type=chunks&vtoken=
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Entertainment", Star Gold HD
