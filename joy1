@@ -69,7 +69,7 @@ http://10.200.200.2:8088/301/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", ZEE BANGLA HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", ZEE BANGLA HD
-http://bapatv.live:8080/zeebzngla/index.m3u8
+http://bapatv.live:8080/zeebangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla", Sony Aath
 https://keralamaxtv.com/sliv/stream.php?id=195
 
