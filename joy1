@@ -38,6 +38,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://10.200.200.2:8088/209/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangla", DBC News
 http://10.200.200.2:8088/204/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/news24-channel-logo-C25403378C-seeklogo.com.png" group-title="Bangla", News24
+https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=rwqcrpZfpzUy7Kc8WjNZyQ&expires=1731771837&user=811838a63b224e85b02b925b31d0fece
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangla", Ekattor TV HD
 https://app.ncare.live:443/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAI6G512VuoCSo7kyrHIJxnb8QvoNo7_PzMPLgvSCr9Q&s" group-title="Bangla", Nagorik Tv
@@ -50,7 +52,7 @@ http://bapatv.live:8080/tsports1/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla", T Sports
 http://10.200.200.2:8088/102/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla", T Sports
-https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=e2IfgKOSHB7pVBon-ggvxA&expires=1731771697&user=811838a63b224e85b02b925b31d0fece
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", Gazi TV HD
 http://10.200.200.2:8088/106/tracks-v1a1/mono.m3u8
 
@@ -59,7 +61,7 @@ https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=WdrfjsvgULaOlf
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI_S9ZTlnUSML05q87vspeGMylqgiusp8_t9tj8__sTw&s" group-title="Bangla", Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangla", Duronto
-
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=MqyFZ9zamHgL_b7BFV1fww&expires=1731771776&user=811838a63b224e85b02b925b31d0fece
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla", STAR JALSHA
 http://10.200.200.2:8088/302/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsha HD
@@ -90,7 +92,7 @@ http://10.200.200.2:8088/101/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Entertainment", Sony Max HD
-https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
+https://bdix-toffee.iptvbd.xyz/live.php?id=b6192dbff21b&e=.m3u8
 #EXTINF: -1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Entertainment", Sony Max HD 
 http://10.200.200.2:8088/404/tracks-v1a1/mono.m3u8
 
