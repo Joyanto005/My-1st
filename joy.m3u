@@ -1,74 +1,58 @@
 #EXTM3U
-#EXTM3U
 
-# Bangla Group - 13
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Zee_Bangla_logo.png" group-title="Bangla", Zee Bangla
+# Bangla Group
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/250px-Zee_Bangla_logo.png" group-title="Bangla", Zee Bangla
 http://example.com/zee_bangla
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Star_Jalsha_logo_2023.png" group-title="Bangla", Star Jalsha
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/250px-Star_Jalsha_logo_2023.png" group-title="Bangla", Star Jalsha
 http://example.com/star_jalsha
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Colors_Bangla.png" group-title="Bangla", Jalsha Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/85/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Bangla", Jalsha Movies
 http://example.com/jalsha_movies
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Colors_Bangla.png" group-title="Bangla", Colors Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/0/0c/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg/250px-%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Bangla", Colors Bangla
 http://example.com/colors_bangla
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Sony_Aath_logo.svg" group-title="Bangla", Sony Aath
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/250px-Sony_Aath_new.png" group-title="Bangla", Sony Aath
 http://example.com/sony_aath
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Independent_TV_Logo.png" group-title="Bangla", Independent
-http://example.com/independent
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/ATN_Bangla_logo.svg" group-title="Bangla", ATN Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/250px-Independent_Television_Logo.svg.png" group-title="Bangla", Independent TV
+http://example.com/independent_tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_of_ATN_Bangla.svg/180px-Logo_of_ATN_Bangla.svg.png" group-title="Bangla", ATN Bangla
 http://example.com/atn_bangla
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/ATN_News_Logo.png" group-title="Bangla", ATN News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/120px-ATN_News_logo.svg.png" group-title="Bangla", ATN News
 http://example.com/atn_news
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/DBC_News_logo.png" group-title="Bangla", DBC News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/180px-%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangla", DBC News
 http://example.com/dbc_news
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Maasranga_Television_Logo.png" group-title="Bangla", Maarsranga
-http://example.com/maarsranga
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Channel_i_logo.png" group-title="Bangla", Channel i
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/250px-Maasranga_Television_Logo.jpg" group-title="Bangla", Maasranga TV
+http://example.com/maasranga_tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png" group-title="Bangla", Channel i
 http://example.com/channel_i
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Jamuna_TV_logo.png" group-title="Bangla", Jamuna TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/250px-Jamuna_TV_logo.svg.png" group-title="Bangla", Jamuna TV
 http://example.com/jamuna_tv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/RTV_logo.png" group-title="Bangla", RTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/240px-Rtv_bangladesh.svg.png" group-title="Bangla", RTV
 http://example.com/rtv
 
-# Hindi Group - 5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Star_Plus_Logo.png" group-title="Hindi", Star Plus
+# Hindi Group
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/StarPlus_Logo.png/155px-StarPlus_Logo.png" group-title="Hindi", Star Plus
 http://example.com/star_plus
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Star_Gold_logo.png" group-title="Hindi", Star Gold
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Star_Gold_Network_logo.png/250px-Star_Gold_Network_logo.png" group-title="Hindi", Star Gold
 http://example.com/star_gold
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sony_Entertainment_Television_Logo.png" group-title="Hindi", Sony Entertainment
-http://example.com/sony_entertainment
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Colors_HD_Logo.png" group-title="Hindi", Colors HD
-http://example.com/colors_hd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Zee_Cinema_HD_Logo.png" group-title="Hindi", Zee Cinema HD
-http://example.com/zee_cinema_hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/SETindialogo_new.png/250px-SETindialogo_new.png" group-title="Hindi", Sony Entertainment Television
+http://example.com/sony_entertainment_tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/250px-Colors_TV_logo.svg.png" group-title="Hindi", Colors TV
+http://example.com/colors_tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/2/29/%E0%A6%9C%E0%A6%BF_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png/250px-%E0%A6%9C%E0%A6%BF_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Hindi", Zee Cinema
+http://example.com/zee_cinema
 
-# Sports Group - 10
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/LIVE_EVENT_Logo.png" group-title="Sports", Live Event
+# Sports Group
+#EXTINF:-1 tvg-logo="http://10.200.200.2/assets/images/live.png" group-title="Sports", Live Event
 http://example.com/live_event
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Tsports_Logo.png" group-title="Sports", Tsports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/200px-T_Sports_logo.svg.png" group-title="Sports", Tsports
 http://example.com/tsports
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Gtv_logo.png" group-title="Sports", Gtv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/250px-Logo_of_GTV_%28Bangladesh%29.svg.png" group-title="Sports", Gtv
 http://example.com/gtv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Star_Sports_Logo.png" group-title="Sports", Star Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/6/6c/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A7%A7_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png/250px-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A7%A7_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Sports", Star Sports 1
 http://example.com/star_sports_1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Star_Sports_Logo.png" group-title="Sports", Star Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Star_Sports_2_logo.png" group-title="Sports", Star Sports 2
 http://example.com/star_sports_2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Sony_Sports_Logo.png" group-title="Sports", Sony Sports 1
-http://example.com/sony_sports_1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Sony_Sports_Logo.png" group-title="Sports", Sony Sports 2
-http://example.com/sony_sports_2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Sony_Sports_Logo.png" group-title="Sports", Sony Sports 3
-http://example.com/sony_sports_3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Star_Select_Logo.png" group-title="Sports", Star Select 2
-http://example.com/star_select_2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Star_Select_Logo.png" group-title="Sports", Star Select 1
-http://example.com/star_select_1
-
-# English Group - 4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Star_Movies_Logo.png" group-title="English", Star Movies
-http://example.com/star_movies
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Sony_PIX_Logo.png" group-title="English", Sony Pix
-http://example.com/sony_pix
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Discovery_Channel_logo.svg" group-title="English", Discovery
-http://example.com/discovery
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/National_Geographic_logo.svg" group-title="English", National Geography
-http://example.com/national_geography
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Sony_Ten_1_logo.svg/250px-Sony_Ten_1_logo.svg.png" group-title="Sports", Sony Ten 1
+http://example.com/sony_ten_1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Sony_Ten_2_logo.svg/250px-Sony_Ten_2_logo.svg.png" group-title="Sports", Sony Ten 2
+http://example.com/sony_ten_2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Sony_Ten_3_logo.svg/250px-Sony_Ten_3_logo.svg.png" group-title="Sports", Sony Ten 3
