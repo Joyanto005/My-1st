@@ -54,7 +54,7 @@ http://172.16.29.2:8090/hls/duronto.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/StarPlus_Logo.png/155px-StarPlus_Logo.png" group-title="Hindi", Star Plus
 http://10.200.200.2:8088/401/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi", Zee TV
-http://172.28.28.20:8080/zeetv/index.fmp4.m3u8
+http://172.16.29.2:8090/hls/zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Star_Gold_Network_logo.png/250px-Star_Gold_Network_logo.png" group-title="Hindi", Star Gold
 http://10.200.200.2:8088/402/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/SETindialogo_new.png/250px-SETindialogo_new.png" group-title="Hindi", Sony Entertainment Television
@@ -87,7 +87,7 @@ http://172.28.28.20:8080/lotas/index.fmp4.m3u8
 http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/250px-Natgeologo.svg.png" group-title="English", National Geographic
-http://10.200.200.2:8088/802/index.m3u8
+http://172.28.28.20:8080/ng/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="English", 9xm
 http://172.16.29.2:8090/hls/9xm.m3u8
 
