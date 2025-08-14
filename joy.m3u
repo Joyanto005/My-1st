@@ -13,7 +13,9 @@ http://10.200.200.2:8088/202/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/120px-ATN_News_logo.svg.png" group-title="Bangla", ATN News
 http://10.200.200.2:8088/203/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" group-title="Bangla", Somoy TV
-http://172.16.29.3:8090/hls/somoytv.m3u8
+http://10.200.200.2:8088/205/index.m3u8
+
+fallbackhttp://172.16.29.3:8090/hls/somoytv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/180px-%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangla", DBC News
 http://10.200.200.2:8088/204/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/250px-Maasranga_Television_Logo.jpg" group-title="Bangla", Maasranga TV
