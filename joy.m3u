@@ -82,6 +82,8 @@ http://10.200.200.2:8088/406/index.m3u8
 http://10.200.200.2:8088/407/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_HD_%282018%29.svg/revision/latest/scale-to-width-down/284?cb=20181116224348" group-title="Hindi", Bollywood  HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bollywood_Clasic_2024.svg/revision/latest/scale-to-width-down/284?cb=20240609123324" group-title="Hindi", Bollywood  Classic HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 
 #English Group
