@@ -64,7 +64,7 @@ http://172.16.29.2:8090/hls/duronto.m3u8
 # Hindi Group
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/StarPlus_Logo.png/155px-StarPlus_Logo.png" group-title="Hindi", Star Plus
 http://10.200.200.2:8088/401/index.m3u8
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi", Zee TV
+# E XTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi", Zee TV
 h ttp://172.16.29.2:8090/hls/zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Star_Gold_Network_logo.png/250px-Star_Gold_Network_logo.png" group-title="Hindi", Star Gold
 http://10.200.200.2:8088/402/index.m3u8
@@ -92,12 +92,12 @@ http://10.200.200.2:8088/501/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/250px-Sony_Pix_new.png" group-title="English", Sony Pix
 http://10.200.200.2:8088/503/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%26flix_HD_Leap_forth.svg/330px-%26flix_HD_Leap_forth.svg.png" group-title="English", &flix HD
-http://172.16.29.2:8090/hls/andflixhd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/500px-%26priv%C3%A9_HD.svg.png" group-title="English", &privé HD
-http://172.16.29.2:8090/hls/AndPriveHD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Lotus_TV_Macau_logo.jpg/500px-Lotus_TV_Macau_logo.jpg" group-title="English", Lotus Macau
-http://172.28.28.20:8080/lotas/index.fmp4.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%26flix_HD_Leap_forth.svg/330px-%26flix_HD_Leap_forth.svg.png" group-title="English", &flix HD
+h ttp://172.16.29.2:8090/hls/andflixhd.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/500px-%26priv%C3%A9_HD.svg.png" group-title="English", &privé HD
+h ttp://172.16.29.2:8090/hls/AndPriveHD.m3u8
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Lotus_TV_Macau_logo.jpg/500px-Lotus_TV_Macau_logo.jpg" group-title="English", Lotus Macau
+h ttp://172.28.28.20:8080/lotas/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Discovery_logo_2021.svg/250px-Discovery_logo_2021.svg.png" group-title="English", Discovery HD
 http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
